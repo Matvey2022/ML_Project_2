@@ -1,3 +1,10 @@
+# if u want to ignore some another folder 
+# for example folder with dataset u have to 
+# wrute next text --> Name_Of_Folder/ 
+
+# to ignore files.db 
 *.db
+# to ignore folder "venv"
 venv/
 *.pdf
+
