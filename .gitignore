@@ -7,4 +7,5 @@
 # to ignore folder "venv"
 venv/
 *.pdf
+Flowers_102_Dataset/
 
