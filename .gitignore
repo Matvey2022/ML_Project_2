@@ -9,3 +9,6 @@ venv/
 *.pdf
 Flowers_102_Dataset/
 
+# to ignore our saved models
+*.pt
+
